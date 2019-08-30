@@ -1,2 +1,2 @@
 # my_first_repo
-Escuela de js Platzi
+This is a change on my README
